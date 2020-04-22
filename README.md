@@ -1,0 +1,2 @@
+# SpringCloud_Config_Repository
+存放配置文件
